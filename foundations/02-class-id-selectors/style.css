@@ -1,0 +1,19 @@
+p {
+    font-family: Verdana,"DejaVu Sans", sans-serif;
+    background-color: #ffc0cb;
+}
+
+#one {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#two {
+    font-size: 24px;
+    background-color: #90ee90;
+    font-weight: bold;
+}
+
+.font-adjust {
+    font-size: 24px;
+}
